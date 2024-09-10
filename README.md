@@ -6,9 +6,12 @@ This Simple exam On Python Programming is a simple project for testing one’s k
 𝙋𝙧𝙤𝙥𝙤𝙨𝙚𝙙 𝙨𝙮𝙨𝙩𝙚𝙢
 
 •This is created for taking Student's test has following features.
+
 •In comparison to the present system the proposed system will be less time consuming and is
 more efficient.
+
 •Result will be very precise and accurate and will be declared in very short span of time
 because calculation and evaluations are done by the simulator itself.
+
 •The proposed system is very secure as no chances of leakage of question paper as it is
 dependent on the administrator only.
